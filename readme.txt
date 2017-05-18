@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 vscode
 
 vscode2
+
+smart-0 edit

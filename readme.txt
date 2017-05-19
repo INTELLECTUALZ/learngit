@@ -7,3 +7,5 @@ vscode
 vscode2
 
 smart-0 edit
+
+smart-0 client
